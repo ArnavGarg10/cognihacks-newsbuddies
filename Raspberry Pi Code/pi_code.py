@@ -16,7 +16,7 @@ OPENAI_API_KEY = "API_KEY"
 ELEVENLABS_API_KEY = "API_KEY"
 VOICE_ID = "ID"
 
-CATEGORY = "technology"
+CATEGORY = "general"
 COUNTRY = "us"
 PAGE_SIZE = 5
 
